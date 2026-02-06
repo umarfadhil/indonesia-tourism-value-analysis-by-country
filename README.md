@@ -67,9 +67,9 @@ Model comparison focuses on **explanatory power**, **stability**, and **policy r
 
 ## 📁 Repository Structure
 ```
-├── Indonesia’s_Tourism_Value_Analysis_by_Country.ipynb
 ├── README.md
-└── Data Visualization Offline Document (Looker Studio)
+├── Indonesia’s_Tourism_Value_Analysis_by_Country.ipynb (Jupyter Notebook)
+└── Indonesia’s_Tourism_Value_Analysis_by_Country.PDF (Data Visualization)
 ```
 
 ---
