@@ -1,4 +1,4 @@
-# 🇮🇩 Indonesia’s Tourism Value Analysis by Country
+# Indonesia's Tourism Value Analysis: Who Brings the Largest Economic Value?
 
 ## 📌 Project Overview
 Since the first year of President Prabowo’s administration, Indonesia has implemented major budget efficiency measures across ministries. In 2025, the Ministry of Tourism experienced a **~40% budget reduction**, pushing policymakers and tourism stakeholders to rethink how tourism promotion resources are allocated.
@@ -84,11 +84,6 @@ Model comparison focuses on **explanatory power**, **stability**, and **policy r
 ## 🧠 Notes
 - This project prioritises **decision‑making insight** over black‑box prediction
 - All interpretations are intended to support **real‑world tourism policy and strategy**
-
----
-
-## 📬 Contact
-If you’d like to discuss this project, collaborate, or explore extensions (e.g. market segmentation or route optimisation), feel free to reach out via GitHub.
 
 ---
 
